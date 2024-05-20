@@ -1,0 +1,7 @@
+venv_ipy/
+venv_activate.bat
+.ipynb_checkpoints/
+1/MC-hardware.ipynb
+2/MatLib (2).ipynb
+.gitignore
+None
