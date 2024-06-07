@@ -4,5 +4,6 @@ venv_activate.bat
 1/MC-hardware.ipynb
 2/MatLib (2).ipynb
 3/schur (2).ipynb
+4/MC-iterative.ipynb
 .gitignore
 None
